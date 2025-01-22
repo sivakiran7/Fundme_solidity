@@ -74,18 +74,5 @@ contract FundMe {
         fund();
       }
 
-/*
-things to cover
-
-1.enums
-2.events
-3.try/catch
-4.function selectors
-5.abi.encode /decode
-6.hashing
-7.yul/ assumbly
-
-
-*/
 
 }
